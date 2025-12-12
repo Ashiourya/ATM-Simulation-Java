@@ -8,7 +8,7 @@ This project is an ATM simulator application that allows users to perform basic 
 atm-simulator
 ├── src
 │   ├── main
-│   │   ├── ATM.java          # Contains the ATM class for user operations llll
+│   │   ├── ATM.java          # Contains the ATM class for user operations 
 │   │   ├── DBConnection.java  # Manages database connections
 │   │   ├── User.java         # Represents a bank user
 │   │   └── Transaction.java   # Represents a financial transaction
