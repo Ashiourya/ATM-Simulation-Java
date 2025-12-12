@@ -14,7 +14,7 @@ public class ATMSimulator {
         String pin = sc.next();
 
         if (!atm.validateUser(acc, pin)) {
-            System.out.println("Invalid Credentials! Exiting...");
+            System.out.println("Invalid Credentials! Exiting..."); 
             return;
         }
 
